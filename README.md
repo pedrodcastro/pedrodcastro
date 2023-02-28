@@ -22,4 +22,4 @@ Atualmente fazendo parte do programa Desenvolve do Grupo Boticário!
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrodcastro&show_icons=true&theme=discord_old_blurple&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodcastro&theme=discord_old_blurple)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodcastro&theme=discord_old_blurple)-->
