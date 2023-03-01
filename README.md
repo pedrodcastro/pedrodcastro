@@ -1,4 +1,4 @@
-<h1>Olá eu sou o Pedro Castro!</h1>
+<h1>Olá eu sou o Pedro!</h1>
 
 Estudante da área de desenvolvimento fullstack!
 
