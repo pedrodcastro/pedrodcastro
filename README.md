@@ -29,7 +29,7 @@ Atualmente fazendo parte do programa Desenvolve do Grupo Boticário em parceria 
 <br>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-pi-six-69.vercel.app/api?username=pedrodcastro&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-pi-six-69.vercel.app/api/top-langs/?username=pedrodcastro&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="160em" src="https://github-readme-stats-pi-six-69.vercel.app/api?username=pedrodcastro&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-pi-six-69.vercel.app/api/top-langs/?username=pedrodcastro&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 </div>
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrodcastro&theme=discord_old_blurple)-->
