@@ -5,6 +5,7 @@ Estudante da área de desenvolvimento fullstack!
 Atualmente fazendo parte do programa Desenvolve do Grupo Boticário em parceria com a Alura!
 
 <h2>Linguagens e ferramentas utilizadas:</h2>
+<!--  Teste -->
 <div style="display: inline_block">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -16,9 +17,7 @@ Atualmente fazendo parte do programa Desenvolve do Grupo Boticário em parceria 
   <img align="center" alt="Pedro-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Pedro-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <!--<img align="center" alt="Pedro-MongoDb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> -->
-          
-       
-          
+  
 </div>
 <div>
   <h2>Entre em contato:</h2>
