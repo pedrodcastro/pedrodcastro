@@ -3,6 +3,7 @@
 Estudante da área de desenvolvimento fullstack!
 
 Atualmente fazendo parte do programa Desenvolve do Grupo Boticário em parceria com a Alura!
+<!--  Teste -->
 
 <h2>Linguagens e ferramentas utilizadas:</h2>
 <div style="display: inline_block">
