@@ -2,7 +2,7 @@
 
 Estudante da área de desenvolvimento fullstack!
 
-Atualmente fazendo parte do programa Desenvolve do Grupo Boticário em parceria com a Alura!
+Formado no programa Desenvolve 2023 do Grupo Boticário em parceria com a Alura!
 <!--  Teste -->
 
 <h2>Linguagens e ferramentas utilizadas:</h2>
