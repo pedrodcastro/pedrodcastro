@@ -27,6 +27,6 @@ Formado no programa Desenvolve 2023 do Grupo Boticário em parceria com a Alura!
 <br>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-pi-six-69.vercel.app/api?username=pedrodcastro&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-pi-six-69.vercel.app/api/top-langs/?username=pedrodcastro&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+  <img height="160em" src="https://github-readme-stats-lyart-chi-61.vercel.app/api?username=pedrodcastro&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https:/github-readme-stats-lyart-chi-61.vercel.app/api/top-langs/?username=pedrodcastro&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 </div>
