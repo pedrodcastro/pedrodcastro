@@ -3,7 +3,8 @@
 Estudante da área de desenvolvimento fullstack!
 
 Formado no programa Desenvolve 2023 do Grupo Boticário em parceria com a Alura!
-<!--  Teste -->
+
+Atualmente cursando ADS pela UniOpet!
 
 <h2>Linguagens e ferramentas utilizadas:</h2>
 <div style="display: inline_block">
